@@ -1,0 +1,17 @@
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\bin\Debug\net8.0-windows\Assignment_3.exe
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\bin\Debug\net8.0-windows\Assignment_3.deps.json
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\bin\Debug\net8.0-windows\Assignment_3.runtimeconfig.json
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\bin\Debug\net8.0-windows\Assignment_3.dll
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\bin\Debug\net8.0-windows\Assignment_3.pdb
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\obj\Debug\net8.0-windows\Assignment_3.Form1.resources
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\obj\Debug\net8.0-windows\Assignment_3.csproj.GenerateResource.cache
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\obj\Debug\net8.0-windows\Assignment_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\obj\Debug\net8.0-windows\Assignment_3.AssemblyInfoInputs.cache
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\obj\Debug\net8.0-windows\Assignment_3.AssemblyInfo.cs
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\obj\Debug\net8.0-windows\Assignment_3.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\obj\Debug\net8.0-windows\Assignment_3.sourcelink.json
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\obj\Debug\net8.0-windows\Assignment_3.dll
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\obj\Debug\net8.0-windows\refint\Assignment_3.dll
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\obj\Debug\net8.0-windows\Assignment_3.pdb
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\obj\Debug\net8.0-windows\Assignment_3.genruntimeconfig.cache
+C:\Users\Brandon\Desktop\PROGRAMMING\PROG2\PROG1965\Assignment_3\Assignment_3\obj\Debug\net8.0-windows\ref\Assignment_3.dll
